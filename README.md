@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Syashwanth S!
+# 👋 Hi, I'm Yashwanth S!
 
 Aspiring **Software Engineer** passionate about building impactful web applications and always eager to explore new technologies.
 
